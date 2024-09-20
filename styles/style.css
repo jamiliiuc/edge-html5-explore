@@ -1,0 +1,16 @@
+/* Nav related styles */
+nav li {
+    padding: 5px;
+    border-radius: 5px;
+    display: inline;
+    list-style: none;
+    margin-right: 15px;
+}
+nav li:hover{
+    background-color: lightgray;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+}
